@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Praba 👋  
 
-<!--
-**Prabalakshmi/Prabalakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ ECE grad student @ Boise State (GPA 3.9/4.0, but I still forget my keys sometimes).  
+🔧 I tinker with **chips, circuits, and code** — Verilog, SystemVerilog, UVM, Cadence, Python, and friends.  
+🧪 Built things like low-noise neural amplifiers, DRAM-based ALUs, and PWM modules (because why not?).  
+💻 Ex-Software Engineer @ Dish Network (made servers faster so you could binge-watch smoother).  
 
-Here are some ideas to get you started:
+I like building stuff that actually *works* (after 100 simulations).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me  
+
+- 📧 [Email](mailto:prabaarumugam@u.boisestate.edu)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prabalakshmi)  
+
+---
+*"If it compiles on the first try, I probably forgot something."*
