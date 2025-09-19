@@ -1,6 +1,6 @@
 # Hey, I'm Praba 👋  
 
-⚡ ECE grad student @ Boise State (GPA 3.9/4.0, but I still forget my keys sometimes).  
+⚡ ECE grad student @ Boise State University.  
 🔧 I tinker with **chips, circuits, and code** — Verilog, SystemVerilog, UVM, Cadence, Python, and friends.  
 🧪 Built things like low-noise neural amplifiers, DRAM-based ALUs, and PWM modules (because why not?).  
 💻 Ex-Software Engineer @ Dish Network (made servers faster so you could binge-watch smoother).  
